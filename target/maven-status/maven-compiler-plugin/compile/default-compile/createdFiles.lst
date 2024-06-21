@@ -1,0 +1,10 @@
+com/agenda/exercise/AgendaApplication.class
+com/agenda/exercise/Models/Task.class
+com/agenda/exercise/Repositry/TaskRepository.class
+com/agenda/exercise/Exception/TaskNotFoundException.class
+com/agenda/exercise/DTO/TaskCreateDTO.class
+com/agenda/exercise/DTO/TaskResponseDTO.class
+com/agenda/exercise/Controller/TaskController.class
+com/agenda/exercise/Services/TaskService.class
+com/agenda/exercise/Config/ModelMapperConfig.class
+com/agenda/exercise/Mapper/TaskMapper.class
